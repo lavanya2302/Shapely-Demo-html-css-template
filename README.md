@@ -4,4 +4,4 @@
 Chetan Morey
 Envision Computer Training Institute Pvt. Ltd.
 
-Live hosting link:- https://lnkd.in/gKWxtvV2
+Live hosting link:- https://shapely-demo-html-css-lavanyasarangi.netlify.app/
